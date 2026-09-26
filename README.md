@@ -1,0 +1,1 @@
+# authserver-media-collection-aws-s3
